@@ -1,4 +1,4 @@
-- 👋 Yo, I go by the name Scetric online.
+- 👋 Yo, I go by the name Pythonic online.
 - 👀 I’m interested in learning programming.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on anything programming related.
